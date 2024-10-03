@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,16 @@ redirect_from:
 ---
 
 Hello!
+
+Hello
+
+
+Hello
+
+
+
+Hello
+
+
+
+Hello
