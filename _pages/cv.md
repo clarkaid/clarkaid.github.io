@@ -13,6 +13,9 @@ Education
 ======
 * B.A. in Statistics and Computer Science, Boston University, 2025 (expected)
 
+Projects
+======
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
