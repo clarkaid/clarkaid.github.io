@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* B.A. in Statistics and Computer Science, Boston University, 2025 (expected)
+Boston University - College of Arts and Sciences    Aug 2021 - May 2025
+Bachelor of Arts in Statistics and Computer Science
+Minor in Spanish
 
 Projects
 ======
